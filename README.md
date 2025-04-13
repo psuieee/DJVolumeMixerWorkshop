@@ -1,6 +1,7 @@
 # DJVolumeMixerWorkshop
 
 April 19th, 2025
+
 Fifth Workshop Spring 2025
 
 ## Resources
