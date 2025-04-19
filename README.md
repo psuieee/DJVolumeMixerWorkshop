@@ -4,6 +4,10 @@ April 19th, 2025
 
 Fifth Workshop Spring 2025
 
+## Requirements
+
+- Arduino IDE: [https://www.arduino.cc/en/software/](https://www.arduino.cc/en/software/)
+
 ## Resources
 
 - Deej Github: [https://github.com/omriharel/deej](https://github.com/omriharel/deej)
